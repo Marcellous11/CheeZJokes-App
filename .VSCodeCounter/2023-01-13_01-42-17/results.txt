@@ -1,0 +1,46 @@
+Date : 2023-01-13 01:42:17
+Directory : /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes
+Total : 15 files,  38886 codes, 58 comments, 69 blanks, all 39013 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     38,600 |          0 |          3 |     38,603 |
+| JavaScript |          7 |        232 |         35 |         57 |        324 |
+| CSS        |          3 |         33 |          0 |          6 |         39 |
+| HTML       |          1 |         17 |         23 |          1 |         41 |
+| Markdown   |          1 |          4 |          0 |          2 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                         |         15 |     38,886 |         58 |         69 |     39,013 |
+| . (Files)                                                                                                 |          3 |     38,589 |          0 |          4 |     38,593 |
+| public                                                                                                    |          2 |         32 |         23 |          2 |         57 |
+| src                                                                                                       |         10 |        265 |         35 |         63 |        363 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                  | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/README.md                    | Markdown   |          4 |          0 |          2 |          6 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/package-lock.json            | JSON       |     38,548 |          0 |          1 |     38,549 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/package.json                 | JSON       |         37 |          0 |          1 |         38 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/public/index.html            | HTML       |         17 |         23 |          1 |         41 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/public/manifest.json         | JSON       |         15 |          0 |          1 |         16 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/App.js                   | JavaScript |         10 |          0 |          3 |         13 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/Joke.css                 | CSS        |         15 |          0 |          3 |         18 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/Joke.js                  | JavaScript |         21 |          0 |          7 |         28 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeClass.js             | JavaScript |          7 |          0 |          2 |          9 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeList.css             | CSS        |         13 |          0 |          2 |         15 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeList.js              | JavaScript |         54 |          4 |         17 |         75 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeListClass.js         | JavaScript |         54 |          3 |         15 |         72 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/index.css                | CSS        |          5 |          0 |          1 |          6 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/index.js                 | JavaScript |          7 |          0 |          2 |          9 |
+| /Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/registerServiceWorker.js | JavaScript |         79 |         28 |         11 |        118 |
+| Total                                                                                                     |            |     38,886 |         58 |         69 |     39,013 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

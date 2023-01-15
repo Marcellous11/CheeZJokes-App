@@ -1,0 +1,17 @@
+"filename", "language", "JavaScript", "CSS", "JSON", "HTML", "Markdown", "comment", "blank", "total"
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/README.md", "Markdown", 0, 0, 0, 0, 4, 0, 2, 6
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/package-lock.json", "JSON", 0, 0, 38548, 0, 0, 0, 1, 38549
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/package.json", "JSON", 0, 0, 37, 0, 0, 0, 1, 38
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/public/index.html", "HTML", 0, 0, 0, 17, 0, 23, 1, 41
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/public/manifest.json", "JSON", 0, 0, 15, 0, 0, 0, 1, 16
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/App.js", "JavaScript", 10, 0, 0, 0, 0, 0, 3, 13
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/Joke.css", "CSS", 0, 15, 0, 0, 0, 0, 3, 18
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/Joke.js", "JavaScript", 21, 0, 0, 0, 0, 0, 7, 28
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeClass.js", "JavaScript", 7, 0, 0, 0, 0, 0, 2, 9
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeList.css", "CSS", 0, 13, 0, 0, 0, 0, 2, 15
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeList.js", "JavaScript", 54, 0, 0, 0, 0, 4, 17, 75
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/JokeListClass.js", "JavaScript", 54, 0, 0, 0, 0, 3, 15, 72
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/index.css", "CSS", 0, 5, 0, 0, 0, 0, 1, 6
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/index.js", "JavaScript", 7, 0, 0, 0, 0, 0, 2, 9
+"/Users/m.curtis/myThings/Code/sbPro/41.ReactRouter_react/react-jokes-classes/src/registerServiceWorker.js", "JavaScript", 79, 0, 0, 0, 0, 28, 11, 118
+"Total", "-", 232, 33, 38600, 17, 4, 58, 69, 39013
